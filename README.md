@@ -29,7 +29,7 @@ This repository hosts the Jupyter notebooks used for data analyses in our paper,
 - Network calculations were executed using KiMONo, accessible at: [KiMONo](https://github.com/cellmapslab/kimono).
 
 ## Dependencies
-- R (version: [specify version])
+- R (version: 4.2.1)
 - Additional R packages are listed within each respective notebook.
 
 ## Citing This Work
