@@ -8,10 +8,10 @@ This repository hosts the Jupyter notebooks used for data analyses in our paper,
 ### data
 - This directory contains the datasets utilized in the Jupyter notebooks.
 
-### figures
+### Figures
 - Contains the actual figures published in the paper.
 
-### tables
+### Tables
 - Hosts all tables from the paper, some of which are referenced in the Jupyter notebooks.
 
 ### Figure1-5.ipynb
@@ -22,7 +22,7 @@ This repository hosts the Jupyter notebooks used for data analyses in our paper,
 ### Preprocessing the Methylation Data
 - The preprocessing code for methylation data from dexamethasone-stimulated human DNA samples is available at: [dex-stim-human-dna-methyl-qc](https://github.com/cellmapslab/dex-stim-human-dna-methyl-qc).
 
-### meQTLs/eQTMs
+### Analysis of meQTLs and eQTMs
 - Calculations and annotations for meQTLs/eQTMs were performed using Matrix eQTL, using previous code: [PostmortemBrainAnalysis](https://github.com/cellmapslab/PostmortemBrainAnalysis/tree/master/05.eQTLs).
 
 ### Multiomics-Network
