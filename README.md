@@ -8,7 +8,7 @@ This repository hosts the Jupyter notebooks used for data analyses in our paper,
 ### data
 - This directory contains the datasets utilized in the Jupyter notebooks.
   
-#### data/Tables
+#### Tables
 - Hosts all tables from the paper, some of which are referenced in the Jupyter notebooks.
 
 ### Figure1-5.ipynb
