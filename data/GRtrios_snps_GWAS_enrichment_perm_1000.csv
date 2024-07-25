@@ -1,1 +1,38 @@
-30;237;1.31703809881857;1.34430628070528;0.180651777405704;0.488015742546249;0.175824175824176;0.091;1.26358352287086;AD_GR_p005_hg19.rds;Psychiatric disorders;1000;1251439
+n_snps_overlap;n_bg;p_value;or;data;Type;n_perm
+15;158;0,654;0.927586420134809;TNFalpha;Cytokines;1000
+32;314;0,671;0.949301373520425;Cross-disorder ;Psychiatric disorders;1000
+18;149;0,18;1.26457777153295;IL-18;Cytokines;1000
+35;240;0,013;1.45463613316155;Multiple_sclerosis;Autoimmune diseases;1000
+24;248;0,637;0.956823346489654;Sleep_duration;Psychiatric traits;1000
+13;158;0,823;0.817970175548984;IL1beta;Cytokines;1000
+16;163;0,691;0.913450559488468;Depressive_symptoms;Psychiatric traits;1000
+23;247;0,69;0.925404361470991;Moderate-to-vigorous_physical_activity;Metabolic_trait;1000
+54;391;0,016;1.32499079867501;Asthma;Respiratory_diseases;1000
+25;178;0,052;1.40158098334922;IL-4;Cytokines;1000
+14;129;0,476;1.04399701715138;Neuroticism;Psychiatric traits;1000
+18;160;0,349;1.10605874400885;IL-6;Cytokines;1000
+41;292;0,016;1.35644809104744;Bipolar_disorder;Psychiatric disorders;1000
+38;239;0,004;1.51291953656886;Stroke;Cardiovascular_diseases;1000
+16;160;0,568;0.991448754492502;Panic_disorder;Psychiatric disorders;1000
+17;226;0,925;0.74362451336337;Loneliness;Psychiatric traits;1000
+17;93;0,022;1.6622665493302;BMI;Metabolic_trait;1000
+16;140;0,336;1.12994350282486;MIP1alpha;Cytokines;1000
+20;221;0,794;0.86396820597002;Attention_deficit_hyperactivity_disorder;Psychiatric disorders;1000
+29;215;0,071;1.31008312251536;Coronary_artery_disease;Cardiovascular_diseases;1000
+40;333;0,161;1.16877045348294;Diabetes type 2;Metabolic diseases;1000
+51;285;0,001;1.76611143816879;Inflammatory bowel disease;Autoimmune diseases;1000
+18;160;0,311;1.13758452885041;MIP1beta;Cytokines;1000
+24;167;0,047;1.41143260409315;IL-10;Cytokines;1000
+23;189;0,158;1.21538786725851;Autism spectrum disorder;Psychiatric disorders;1000
+49;427;0,268;1.08782523754551;CRP_2022;Cytokines;1000
+24;182;0,11;1.29428895000809;IL-17;Cytokines;1000
+1;25;0,927;0.410172272354389;CRP;Cytokines;1000
+319;3255;0,957;0.996327020138924;Major depressive disorder 2018;Psychiatric disorders;1000
+21;262;0,929;0.770105247717188;Major depressive disorder 2019;Psychiatric disorders;1000
+20;242;0,859;0.822503701266656;Psoriasis;Autoimmune diseases;1000
+35;287;0,154;1.1847138069932;Rheumatoid arthritis;Autoimmune diseases;1000
+54;376;0,011;1.36746942186432;Schizophrenia;Psychiatric disorders;1000
+10;72;0,177;1.38542532557495;Heart rate variability (pvRSAHF);Metabolic_trait;1000
+11;65;0,077;1.6072472238457;Heart rate variability (RMSSD);Metabolic_trait;1000
+12;65;0,03;1.77488537198639;Heart rate variability (SDNN);Metabolic_trait;1000
+26;257;0,675;0.935723025984309;Well-being spectrum;Psychiatric traits;1000
